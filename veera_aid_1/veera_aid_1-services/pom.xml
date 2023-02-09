@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+      
+  <modelVersion>4.0.0</modelVersion>
+      
+  <parent>
+            
+    <groupId>veera_gid_1</groupId>
+            
+    <artifactId>veera_aid_1</artifactId>
+            
+    <version>1.1.1</version>
+        
+  </parent>
+      
+  <artifactId>veera_aid_1-services</artifactId>
+      
+  <packaging>pom</packaging>
+  
+  <modules>
+      
+    <module>veera_aid_1-services-helloworld</module>
+      
+  </modules>
+</project>
